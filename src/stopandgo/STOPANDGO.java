@@ -14,9 +14,19 @@ public class STOPANDGO {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("        ********                           XXXXXXXX        ");  
+        System.out.println("      *          *                       X          X      ");  
+        System.out.println("     *   S T O P  *                     X    G O     X     ");    
+        System.out.println("      *          *                       X          X      ");
+        System.out.println("        ********                           XXXXXXXX        ");
+        System.out.println("           **                                 XX           ");
+        System.out.println("           **                                 XX           ");
+        System.out.println("           **                                 XX           ");
+        System.out.println("           **                                 XX           ");
+        System.out.println("          ****                               XXXX          ");
+        System.out.println("        ********                           XXXXXXXX        ");
+        
     }
     
 }
 
-so
